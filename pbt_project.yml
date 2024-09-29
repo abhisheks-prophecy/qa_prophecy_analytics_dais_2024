@@ -1235,7 +1235,7 @@ sqlSources:
     - name: google_account_history_data
       schema:
         entityType: ''
-        providerType: Databricks
+        providerType: databricks
         fields: []
       description: null
       author: maciej@prophecy.io
@@ -1243,7 +1243,7 @@ sqlSources:
     - name: google_account_stats_data
       schema:
         entityType: ''
-        providerType: Databricks
+        providerType: databricks
         fields: []
       description: null
       author: maciej@prophecy.io
@@ -1259,7 +1259,7 @@ sqlSources:
     - name: linkedin_account_history_data
       schema:
         entityType: ''
-        providerType: Databricks
+        providerType: databricks
         fields: []
       description: null
       author: maciej@prophecy.io
@@ -1267,7 +1267,7 @@ sqlSources:
     - name: linkedin_ad_analytics_by_campaign_data
       schema:
         entityType: ''
-        providerType: Databricks
+        providerType: databricks
         fields: []
       description: null
       author: maciej@prophecy.io
@@ -1275,7 +1275,7 @@ sqlSources:
     - name: linkedin_campaign_history_data
       schema:
         entityType: ''
-        providerType: Databricks
+        providerType: databricks
         fields: []
       description: null
       author: maciej@prophecy.io
